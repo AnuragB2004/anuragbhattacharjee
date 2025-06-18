@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/anuragbhattacharjee"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/anuragbhattacharjee"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:anurag.bhattacharjee@kiit.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:anuragdgp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 🎓 Final-year B.Tech Computer Science Student @ KIIT University  
-💼 Intern @ SAP Labs | Ex-Tech Consultant @ Ernst & Young  
+💼 Associate Intern @ TCS | Ex Trainee- SAP Labs |Ex-Tech Consultant @ Ernst & Young  
 📄 IEEE Conference Author | 💡 AI Researcher & Builder  
 🌍 Passionate about AI, ML, GenAI, NLP, and Open Source  
 🎯 On a mission to blend tech with real-world impact
